@@ -1,0 +1,27 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "restapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node restapi.js"
+  },
+  "engines": {
+    "node": ">=14.20.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luminietos/REST-API.git"
+  },
+  "keywords": [
+    "render",
+    "node.js"
+  ],
+  "author": "Wilma Paloheimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luminietos/REST-API/issues"
+  },
+  "homepage": "https://luminietos.github.io/REST-API/"
+}
