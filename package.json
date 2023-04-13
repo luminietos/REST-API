@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/luminietos/REST-API/issues"
   },
-  "homepage": "https://luminietos.github.io/REST-API/"
+  "homepage": "https://luminietos.github.io/REST-API/",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
