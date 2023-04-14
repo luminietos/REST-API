@@ -6,7 +6,7 @@ This is a guestbook application created in April 2023.
 
 It was made using and utilizing JavaScript, JSON, Node.js, [Express](https://expressjs.com/), and a bit of EJS, HTML and CSS.
 
-You can find this project's site by clicking [here](https://github.com/luminietos/REST-API) (GitHub) or [here](https://gb-lumi-ykfe.onrender.com/) (Azure).
+You can find this project's site by clicking [here](https://github.com/luminietos/REST-API) (GitHub) or [here](https://restapi-luminietos.onrender.com/) (Render).
 
 ## Step-by-step guide - *"How do I actually use this site?"*
 Under construction - please hold.
