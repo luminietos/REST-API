@@ -93,17 +93,21 @@ app.post("/api/add", function (req, res) {
 });
 
 // removes a movie by ID
-app.delete("/api/delete/:id", function (req, res) {
-// sends back an error msg if it can't be found/has been removed
-  movie.findByIdAndDelete(req.params.id, function (err) {
-    if (err) {
-      res.status(500).send("Error 500: " + error);
-    }
-    const response = {
-      message: "The movie has been deleted.",
-    };
-    return res.status(200).send(response);
-  });
+// app.delete("/api/delete/:id", function (req, res) {
+// // sends back an error msg if it can't be found/has been removed
+//   movie.findByIdAndDelete(req.params.id, function (err) {
+//     if (err) {
+//       res.status(500).send("Error 500: " + error);
+//     }
+//     const response = {
+//       message: "The movie has been deleted.",
+//     };
+//     return res.status(200).send(response);
+//   });
+// });
+
+app.delete("/api/delete/:id", function(req, res) {
+  res.send("Remove the movie by " + req.params.id);
 });
 
 // if the route cannot be found

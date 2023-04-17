@@ -2,7 +2,7 @@
 A Node.js REST API application with five different routes.  - no UI (yet): see [Rest-Api UI](https://github.com/luminietos/REST-API-UI) for that specific addition.
 
 ## Description
-This is a guestbook application created in April 2023. 
+This is a REST API application created in April 2023. 
 
 It was made using and utilizing JavaScript, JSON, Node.js, [Express](https://expressjs.com/), and a bit of EJS, HTML and CSS. The movie database used in this project is from [MongoDB](https://www.mongodb.com/) (sample_mflix).
 
