@@ -7,7 +7,7 @@ This is a REST API application created in April 2023.
 It was made using and utilizing JavaScript, JSON, Node.js, [Express](https://expressjs.com/), and a bit of EJS, HTML and CSS. The movie database used in this project is from [MongoDB](https://www.mongodb.com/) (sample_mflix).
 The code itself was tested via [Postman](https://www.postman.com/) (see below).
 
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/77718358/232532162-aa8031bf-93fe-4fb5-b80f-e5a547589240.png">
+![postmanexample](https://user-images.githubusercontent.com/77718358/232530742-f52a93bd-258c-4e2d-bb1c-fb13ffe61f53.jpg)
 
 You can find this project's site by clicking [here](https://github.com/luminietos/REST-API) (GitHub) or [here](https://restapi-luminietos.onrender.com/) (Render).
 
