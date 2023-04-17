@@ -49,6 +49,7 @@ app.get("/api/movies", function (_req, res) {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
+  
 
   async function connectAndFetch() {
     try {
