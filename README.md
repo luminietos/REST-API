@@ -5,7 +5,9 @@ A Node.js REST API application with five different routes.  - no UI (yet): see [
 This is a REST API application created in April 2023. 
 
 It was made using and utilizing JavaScript, JSON, Node.js, [Express](https://expressjs.com/), and a bit of EJS, HTML and CSS. The movie database used in this project is from [MongoDB](https://www.mongodb.com/) (sample_mflix).
-The code itself was tested via [Postman](https://www.postman.com/).
+The code itself was tested via [Postman](https://www.postman.com/) (see below).
+
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/77718358/232532162-aa8031bf-93fe-4fb5-b80f-e5a547589240.png">
 
 You can find this project's site by clicking [here](https://github.com/luminietos/REST-API) (GitHub) or [here](https://restapi-luminietos.onrender.com/) (Render).
 
