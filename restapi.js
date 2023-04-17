@@ -106,7 +106,12 @@ app.delete("/api/delete/:id", function (req, res) {
   });
 });
 
-// web server by Express
+// if the route cannot be found
+app.get("*", function (req, res) {
+  response.status(404).send("Can't find the requested page");
+});
+
+// web server w. Express
 var PORT = process.env.PORT || 3000;
 app.listen(PORT, function () {
   console.log("REST api is listening on PORT %d", PORT);
