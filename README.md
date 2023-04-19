@@ -20,6 +20,11 @@ This is the second of the three projects (first being [a Node.js Guestbook](http
 
 Technically, the third project is a continuation of this project, as I simply create a UI for the code I have here. However, for clarity, the 'third project' (or project 2.2, really) is [in its own, separate repository](). Much of the same code will be used for obvious reasons.  
 
+### AKA 
+P1: [Guestbook](https://github.com/luminietos/GB) \
+P2: [REST API (no UI)](https://github.com/luminietos/REST-API) \
+P3: [the REST API's UI/front-end](https://github.com/luminietos/REST-API) 
+
 ## Status
 The development of this project is ongoing.
 
