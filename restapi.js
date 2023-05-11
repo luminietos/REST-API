@@ -117,7 +117,7 @@ app.get("*", function (req, res) {
 });
 
 // web server w. Express
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 8080;
 app.listen(PORT, function () {
   console.log("REST api is listening on PORT %d", PORT);
 });
